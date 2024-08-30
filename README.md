@@ -1,1 +1,2 @@
 # LocalRepoProject
+ Hello, Git and GitHub!
